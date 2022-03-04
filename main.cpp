@@ -52,84 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       tree
+//  action 1:   the tree grows taller
+tree.growUp();
+//  action 2:   the tree grows leaves
+tree.growLeaves();
+//  action 3:   the tree sheds leaves
+tree.shedLeaves();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       leg                         
+//  action 1:   the leg extends        
+leg.extend();    
+//  action 2:   the leg flexes  
+leg.flex(); 
+//  action 3:   the leg rotates conter-clockwise
+leg.rotateCounterClockwise();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       finger
+//  action 1:   the finger extends
+finger.extend();
+//  action 2:   the finger points 
+finger.point();
+//  action 3:   the finger rotates counter-clockwise
+finger.rotateCounterClockwise();
+//  4)          
+//  Noun:       thumb
+//  action 1:   the thumb extends
+thumb.extend();
+//  action 2:   the thumb raises 
+thumb.raise();
+//  action 3:   the thumb rotates counter-clockwise
+thumb.rotateCounterClockwise();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       eye
+//  action 1:   the eye sees 
+eye.see();
+//  action 2:   the eye blinks
+eye.blink();
+//  action 3:   the eye closes
+eye.close();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       littleGal
+//  action 1:   the littleGal sings loud
+littleGal.singLoud();
+//  action 2:   the littleGal slow dances
+littleGal.slowDance();
+//  action 3:   the littleGal chews gum 
+littleGal.chewGum();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       boy
+//  action 1:   the boy runs
+boy.run();
+//  action 2:   the boy jumps
+boy.jump();
+//  action 3:   the boy falls
+boy.fall();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       bird 
+//  action 1:   the bird flies
+bird.fly();
+//  action 2:   the bird glides
+bird.glide();
+//  action 3:   the bird eats seeds
+bird.eatSeeds();
+//  9)            
+//  Noun:       spider
+//  action 1:   the spider crawls
+spider.crawl();
+//  action 2:   the spider spins a web
+spider.spinWeb();
+//  action 3:   the spider curls into a ball
+spider.curlIntoBall();
+//  10)         
+//  Noun:       sun
+//  action 1:   the sun rises
+sun.rise();
+//  action 2:   the sun shines 
+sun.shine();
+//  action 3:   the sun sets
+sun.sets();
 
 
 
