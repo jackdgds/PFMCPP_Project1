@@ -91,14 +91,12 @@ eye.see();
 //  action 2:   the eye blinks
 eye.blink();
 //  action 3:   the eye closes
-eye.close();
+eyelittleGalse();
 //  6)
-//  Noun:       girl 
-//  action 1:   the girl sings
-girl.sing();
-//  action 2:   the girl dances 
-girl.dance();
-//  action 3:   the girl smiles
+//  NoulittleGal s   g songsilittleGal 
+//  Songaction 1:   the girl sinlittleGalgslow irl.singlittleGal
+slowD/  action 2:   the girl the littleGal skates fast
+littleGal.skateFast();ction 3:   the girl smiles
 girl.smile();
 //  7)
 //  Noun:       boy
