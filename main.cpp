@@ -83,7 +83,6 @@ thumb.extend();
 thumb.raise();
 //  action 3:   the thumb rotates counter-clockwise
 thumb.rotateCounterClockwise();
-
 //  5)
 //  Noun:       eye
 //  action 1:   the eye sees 
@@ -91,13 +90,15 @@ eye.see();
 //  action 2:   the eye blinks
 eye.blink();
 //  action 3:   the eye closes
-eyelittleGalse();
+eye.close();
 //  6)
-//  NoulittleGal s   g songsilittleGal 
-//  Songaction 1:   the girl sinlittleGalgslow irl.singlittleGal
-slowD/  action 2:   the girl the littleGal skates fast
-littleGal.skateFast();ction 3:   the girl smiles
-girl.smile();
+//  Noun:       littleGal
+//  action 1:   the littleGal sings loud
+littleGal.singLoud();
+//  action 2:   the littleGal slow dances
+littleGal.slowDance();
+//  action 3:   the littleGal chews gum 
+littleGal.chewGum();
 //  7)
 //  Noun:       boy
 //  action 1:   the boy runs
